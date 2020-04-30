@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "element-ui": "^2.7.0",
     "ginkgo-map": "^1.0.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-md5": "^0.7.3",
     "lib-flexible": "^0.3.2",
     "mint-ui": "^2.2.13",
